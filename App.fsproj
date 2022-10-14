@@ -5,9 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Helpers.fs" />
-    <Compile Include="TodoMVC.fs" />
-    <Compile Include="App.fs" />
+    <Compile Include="src/Helpers.fs" />
+    <Compile Include="src/TodoMVC.fs" />
+    <Compile Include="src/App.fs" />
   </ItemGroup>
 
   <ItemGroup>
